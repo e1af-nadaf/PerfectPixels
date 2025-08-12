@@ -24,4 +24,15 @@ FontAwesome icons for visual appeal.
 2. Open the `index.html` file in your favorite browser.
 3. Click the hamburger icon to open the sidebar and the close icon to hide it.
 
-## Screenshot
+---
+
+Created as a personal project to practice responsive navigation menus and CSS
+transitions.
+
+Feel free to use and modify it for your own projects!
+
+---
+
+### License
+
+This project is open source and free to use.
